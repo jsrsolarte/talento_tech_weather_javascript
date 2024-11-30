@@ -1,5 +1,5 @@
 const URL = "https://api.openweathermap.org/data/2.5/weather"
-const KEY = "22eb2b54135adc2e7fcd707d95417a55"
+const KEY = ""
 
 $(document).ready(function () {
     $("#weather-form").on("submit", submitHandler)
