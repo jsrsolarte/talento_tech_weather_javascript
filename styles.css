@@ -1,0 +1,13 @@
+body {
+    background-color: gray;
+    text-align: center;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 10px black;
+}
